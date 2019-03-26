@@ -1,0 +1,4 @@
+#Sun Sep 30 22:36:36 IRST 2018
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\Fragment&Services\\Codes\\Section3\\Video3.3\\factoryFragment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

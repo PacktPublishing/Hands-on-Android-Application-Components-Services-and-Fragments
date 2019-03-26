@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:appcompat-v7-28.0.0-rc01">
+    <ANNOTATIONS>
+      <root url="jar://C:/Program Files/Gradle/4.9/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/6f3ad93f82e98cbb5375df5a2ef84b3c/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/Program Files/Gradle/4.9/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/6f3ad93f82e98cbb5375df5a2ef84b3c/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Gradle/4.9/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/6f3ad93f82e98cbb5375df5a2ef84b3c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8d1655695cfad9e2036dc092c39eaea1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce83c65c7568f700dae5b0184c0db3dd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\8a8752508419874a81a294f10f8382c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f4e93c08c3847f6cd889c24349189c99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9aa53baf51ccf40582688d5d19a0e97c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\822bdedc057327060bfa427158d4de8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\15af1e90944b63a9b21d4a5738c71fa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8634e90db115a44648d65b05c68d698b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\605f409f76f76d31420d66563233a901\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\loader-28.0.0.aar\255310e0b933ce57a8e2695f428d9c8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\08d5bff4c3836d929960664acfc1815f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\32e8e653f8faae76bad9fec39ab6a099\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e795eae4294a91448f72fdaead2168fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3a33983422ac07d17ae0ada07bd7d9a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\customview-28.0.0.aar\f24595d9e7540b8f1eefc005b0417d57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c58e1538ad58ebfd44058cd89b578c62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd11e825192361446a99f9afa59fec89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9eb14939b1c33c5a81cfc74d8b3e9645\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7574f31ee52ee2b9e34768928efbb4c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2ea79cfd896ca3263dc6c07228462bf3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ec2fc4b551bf4492020cb5b4da7b85c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\01463e3cbdb176b121e3cb1c8f64b312\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\77ff4aa1416536027a44fa05bc3b4190\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\print-28.0.0.aar\8aa90a1f31612464c0c975b79fc456ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fd9ec7a6900f2fb9b1c19131cd657542\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\257000c619667d7325f1c073d58d514c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-1.1.1.aar\666b94226e800253b321b366184cdc9d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\663c51b94b357a07b3cbb94ee74ecf8f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\35bc892fc71fa793d42d8ad34d9acb2f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce83c65c7568f700dae5b0184c0db3dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce83c65c7568f700dae5b0184c0db3dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9eb14939b1c33c5a81cfc74d8b3e9645\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9eb14939b1c33c5a81cfc74d8b3e9645\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7574f31ee52ee2b9e34768928efbb4c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7574f31ee52ee2b9e34768928efbb4c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9eb14939b1c33c5a81cfc74d8b3e9645\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:11:9-40
+activity#fragments.packt.com.factoryfragment.MainActivity
+ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8d1655695cfad9e2036dc092c39eaea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8d1655695cfad9e2036dc092c39eaea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce83c65c7568f700dae5b0184c0db3dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce83c65c7568f700dae5b0184c0db3dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\8a8752508419874a81a294f10f8382c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\8a8752508419874a81a294f10f8382c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f4e93c08c3847f6cd889c24349189c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f4e93c08c3847f6cd889c24349189c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9aa53baf51ccf40582688d5d19a0e97c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9aa53baf51ccf40582688d5d19a0e97c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\822bdedc057327060bfa427158d4de8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\822bdedc057327060bfa427158d4de8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\15af1e90944b63a9b21d4a5738c71fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\15af1e90944b63a9b21d4a5738c71fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8634e90db115a44648d65b05c68d698b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8634e90db115a44648d65b05c68d698b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\605f409f76f76d31420d66563233a901\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\605f409f76f76d31420d66563233a901\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\loader-28.0.0.aar\255310e0b933ce57a8e2695f428d9c8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\loader-28.0.0.aar\255310e0b933ce57a8e2695f428d9c8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\08d5bff4c3836d929960664acfc1815f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\08d5bff4c3836d929960664acfc1815f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\32e8e653f8faae76bad9fec39ab6a099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\32e8e653f8faae76bad9fec39ab6a099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e795eae4294a91448f72fdaead2168fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e795eae4294a91448f72fdaead2168fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3a33983422ac07d17ae0ada07bd7d9a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3a33983422ac07d17ae0ada07bd7d9a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\customview-28.0.0.aar\f24595d9e7540b8f1eefc005b0417d57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\customview-28.0.0.aar\f24595d9e7540b8f1eefc005b0417d57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c58e1538ad58ebfd44058cd89b578c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c58e1538ad58ebfd44058cd89b578c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd11e825192361446a99f9afa59fec89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd11e825192361446a99f9afa59fec89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9eb14939b1c33c5a81cfc74d8b3e9645\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9eb14939b1c33c5a81cfc74d8b3e9645\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7574f31ee52ee2b9e34768928efbb4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c7574f31ee52ee2b9e34768928efbb4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2ea79cfd896ca3263dc6c07228462bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2ea79cfd896ca3263dc6c07228462bf3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ec2fc4b551bf4492020cb5b4da7b85c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ec2fc4b551bf4492020cb5b4da7b85c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\01463e3cbdb176b121e3cb1c8f64b312\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\01463e3cbdb176b121e3cb1c8f64b312\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\77ff4aa1416536027a44fa05bc3b4190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\77ff4aa1416536027a44fa05bc3b4190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\print-28.0.0.aar\8aa90a1f31612464c0c975b79fc456ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\print-28.0.0.aar\8aa90a1f31612464c0c975b79fc456ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fd9ec7a6900f2fb9b1c19131cd657542\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fd9ec7a6900f2fb9b1c19131cd657542\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\257000c619667d7325f1c073d58d514c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\257000c619667d7325f1c073d58d514c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-1.1.1.aar\666b94226e800253b321b366184cdc9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-1.1.1.aar\666b94226e800253b321b366184cdc9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\663c51b94b357a07b3cbb94ee74ecf8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\663c51b94b357a07b3cbb94ee74ecf8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\35bc892fc71fa793d42d8ad34d9acb2f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\35bc892fc71fa793d42d8ad34d9acb2f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mona\Desktop\packt\Fragment&Services\Codes\Section3\Video3.3\factoryFragment\app\src\main\AndroidManifest.xml
