@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragment_container"
+        android:background="@color/colorAccent"
+        >
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/btn_Change_Fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Fragment"
+        android:onClick="FragmentClicked"
+         />
+
+  <!--  <Button
+        android:id="@+id/btn_Add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:text="Fragment Two"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:onClick="FragmentRemoveClicked"
+         />-->
+
+
+</android.support.constraint.ConstraintLayout>
