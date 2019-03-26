@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 13 17:59:33 IRST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Mona\\Desktop\\packt\\Fragment&Services\\Codes\\Section4\\Video4.4\\DialogFragment\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

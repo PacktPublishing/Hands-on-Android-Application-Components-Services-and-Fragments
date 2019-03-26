@@ -1,0 +1,4 @@
+#Wed Feb 13 17:59:32 IRST 2019
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\Fragment&Services\\Codes\\Section4\\Video4.4\\DialogFragment\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
