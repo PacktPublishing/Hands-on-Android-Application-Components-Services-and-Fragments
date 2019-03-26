@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Mona\\Desktop\\packt\\Fragment&Services\\Codes\\FragmentsLifecycleEvents\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Program Files\\Gradle\\4.9\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\25d42ef75d8d5ce20d94c8ce55d7b33f\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
