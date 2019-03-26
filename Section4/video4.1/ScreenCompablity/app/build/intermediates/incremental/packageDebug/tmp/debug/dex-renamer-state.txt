@@ -1,0 +1,4 @@
+#Fri Feb 01 21:08:49 IRST 2019
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\Fragment&Services\\Codes\\Section4\\video4.1\\ScreenCompablity\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

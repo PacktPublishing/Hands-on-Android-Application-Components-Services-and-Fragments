@@ -1,0 +1,4 @@
+#Tue Feb 12 01:38:13 IRST 2019
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\Fragment&Services\\Codes\\Section4\\Video4.2\\MeasuringScreenSize\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

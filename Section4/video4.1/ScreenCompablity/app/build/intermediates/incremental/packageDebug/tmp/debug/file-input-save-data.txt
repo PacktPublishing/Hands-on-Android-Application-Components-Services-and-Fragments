@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 01 21:08:49 IRST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Mona\\Desktop\\packt\\Fragment&Services\\Codes\\Section4\\video4.1\\ScreenCompablity\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
