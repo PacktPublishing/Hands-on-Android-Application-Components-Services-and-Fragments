@@ -33,61 +33,61 @@ You have to download java SDK and Android studio IDE (with SDK bundle) which is 
 
 
 
-OS: Microsoft® Windows® 7/8/10 (32- or 64-bit)<br/>
+* OS: Microsoft® Windows® 7/8/10 (32- or 64-bit)<br/>
 
 
 
-Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator<br/>
+* Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator<br/>
 
 
 
-Memory: 2 GB of available disk space minimum,4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)<br/>
+* Memory: 2 GB of available disk space minimum,4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)<br/>
 
 
 
-1280 x 800 minimum screen resolution<br/>
-
-
-
-
-
-OS: Mac® OS X® 10.10 (Yosemite) or higher, up to 10.13 (macOS High Sierra)<br/>
-
-
-
-Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator<br/>
-
-
-
-Memory: 2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)<br/>
-
-
-
-1280 x 800 minimum screen resolution<br/>
+* 1280 x 800 minimum screen resolution<br/>
 
 
 
 
 
-OS: GNOME or KDE desktop<br/>
+* OS: Mac® OS X® 10.10 (Yosemite) or higher, up to 10.13 (macOS High Sierra)<br/>
 
 
 
-Tested on Ubuntu® 14.04 LTS, Trusty Tahr (64-bit distribution capable of running 32-bit applications)<br/>
+* Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator<br/>
 
 
 
-Processor: 64-bit distribution capable of running 32-bit applications<br/>
+* Memory: 2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)<br/>
 
 
 
-GNU C Library (glibc) 2.19 or later<br/>
+* 1280 x 800 minimum screen resolution<br/>
 
 
 
-Memory: 2 GB of available disk space minimum,<br/>
-4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)<br/>
-1280 x 800 minimum screen resolution<br/>
+
+
+* OS: GNOME or KDE desktop<br/>
+
+
+
+* Tested on Ubuntu® 14.04 LTS, Trusty Tahr (64-bit distribution capable of running 32-bit applications)<br/>
+
+
+
+* Processor: 64-bit distribution capable of running 32-bit applications<br/>
+
+
+
+* GNU C Library (glibc) 2.19 or later<br/>
+
+
+
+* Memory: 2 GB of available disk space minimum,<br/>
+* 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)<br/>
+* 1280 x 800 minimum screen resolution<br/>
 
 ## Related Products
 * [Hands-On Android Material Design [Video]](https://www.packtpub.com/application-development/hands-android-material-design-video?utm_source=github&utm_medium=repository&utm_campaign=9781789805581)
